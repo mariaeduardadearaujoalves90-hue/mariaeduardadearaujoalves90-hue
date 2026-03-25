@@ -3,7 +3,7 @@
 
 ### Analista de BI 
 
- Com 5 anos de experiência nas áreas financeira e de negócios, atuando diretamente com indicadores, controles, análises e apoio à tomada de decisão. Há 3 anos explorando a área e há 2 trabalho com Business Intelligence, desenvolvendo análises, relatórios e dashboards voltados para acompanhamento de performance e resultados.
+ Com 6 anos de experiência nas áreas financeira e de negócios, atuando diretamente com indicadores, controles, análises e apoio à tomada de decisão. Há 3 anos explorando a área e há 2 trabalho com Business Intelligence, desenvolvendo análises, relatórios e dashboards voltados para acompanhamento de performance e resultados.
 
 Possuo experiência em tratamento e análise de dados, modelagem de informações, criação de dashboards interativos no Power BI, elaboração de consultas SQL e automação de relatórios em Excel. Tenho facilidade em traduzir necessidades do negócio em soluções analíticas claras e objetivas.
 
