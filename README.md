@@ -4,12 +4,10 @@
 ### Analista de BI 
 
  Profissional com 6 anos de experiência nas áreas financeira e de negócios, atuando com indicadores, controles e suporte à tomada de decisão. Nos últimos anos, venho direcionando minha atuação para Business Intelligence e Engenharia de Dados, com foco na construção de soluções analíticas e na estruturação de dados para geração de valor.
-
 Possuo experiência em tratamento, transformação e análise de dados, modelagem de informações e desenvolvimento de dashboards no Power BI. Atuo também com consultas SQL e automação de processos, buscando garantir qualidade, consistência e eficiência no fluxo de dados.
-
 Tenho evoluído na construção de pipelines de dados e no entendimento de processos de ETL, conectando diferentes fontes e organizando os dados para consumo analítico. Possuo facilidade em traduzir necessidades de negócio em soluções técnicas, integrando BI com práticas de engenharia de dados.
-
 Atuo com foco em qualidade de dados, regras de negócio e geração de insights estratégicos, além de estar em constante evolução em temas como modelagem dimensional, ETL, pipelines de dados e boas práticas de DataOps, com o objetivo de fortalecer minha atuação em BI e Engenharia de Dados.
+
 ---
 
 ## 🚀 Linguagens e Tecnologias
