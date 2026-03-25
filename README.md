@@ -3,13 +3,13 @@
 
 ### Analista de BI 
 
- Com 6 anos de experiência nas áreas financeira e de negócios, atuando diretamente com indicadores, controles, análises e apoio à tomada de decisão. Há 3 anos explorando a área e há 2 trabalho com Business Intelligence, desenvolvendo análises, relatórios e dashboards voltados para acompanhamento de performance e resultados.
+ Profissional com 6 anos de experiência nas áreas financeira e de negócios, atuando com indicadores, controles e suporte à tomada de decisão. Nos últimos anos, venho direcionando minha atuação para Business Intelligence e Engenharia de Dados, com foco na construção de soluções analíticas e na estruturação de dados para geração de valor.
 
-Possuo experiência em tratamento e análise de dados, modelagem de informações, criação de dashboards interativos no Power BI, elaboração de consultas SQL e automação de relatórios em Excel. Tenho facilidade em traduzir necessidades do negócio em soluções analíticas claras e objetivas.
+Possuo experiência em tratamento, transformação e análise de dados, modelagem de informações e desenvolvimento de dashboards no Power BI. Atuo também com consultas SQL e automação de processos, buscando garantir qualidade, consistência e eficiência no fluxo de dados.
 
-Atuo com foco em qualidade dos dados, entendimento de regras de negócio e geração de insights estratégicos, sempre buscando aprimorar conhecimentos em ETL, DAX, modelagem dimensional e análise de KPIs, com o objetivo de evoluir continuamente na área de Business Intelligence e Analytics.
+Tenho evoluído na construção de pipelines de dados e no entendimento de processos de ETL, conectando diferentes fontes e organizando os dados para consumo analítico. Possuo facilidade em traduzir necessidades de negócio em soluções técnicas, integrando BI com práticas de engenharia de dados.
 
-
+Atuo com foco em qualidade de dados, regras de negócio e geração de insights estratégicos, além de estar em constante evolução em temas como modelagem dimensional, ETL, pipelines de dados e boas práticas de DataOps, com o objetivo de fortalecer minha atuação em BI e Engenharia de Dados.
 ---
 
 ## 🚀 Linguagens e Tecnologias
