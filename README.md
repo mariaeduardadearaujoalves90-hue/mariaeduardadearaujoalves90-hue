@@ -52,7 +52,7 @@ Atuo com foco em qualidade dos dados, entendimento de regras de neg√≥cio e gera√
 
   <br/>
 <p align="left">
-  <a href="mailto:Eduarda.Araujo@BIAnalyticsd.onmicrosoft.com">
+  <a href="mailto:mariaeduardadearaujoalves90@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
