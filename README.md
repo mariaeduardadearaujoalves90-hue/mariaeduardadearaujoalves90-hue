@@ -1,13 +1,13 @@
 #mariaeduardadearaujoalves90-hue
 # 👨‍💻 Eduarda Araujo 
 
-### Analista de BI 
-
- Profissional com 6 anos de experiência nas áreas financeira e de negócios, atuando com indicadores, controles e suporte à tomada de decisão. Nos últimos anos, venho direcionando minha atuação para Business Intelligence e Engenharia de Dados, com foco na construção de soluções analíticas e na estruturação de dados para geração de valor.
-Possuo experiência em tratamento, transformação e análise de dados, modelagem de informações e desenvolvimento de dashboards no Power BI. Atuo também com consultas SQL e automação de processos, buscando garantir qualidade, consistência e eficiência no fluxo de dados.
-Tenho evoluído na construção de pipelines de dados e no entendimento de processos de ETL, conectando diferentes fontes e organizando os dados para consumo analítico. Possuo facilidade em traduzir necessidades de negócio em soluções técnicas, integrando BI com práticas de engenharia de dados.
-Atuo com foco em qualidade de dados, regras de negócio e geração de insights estratégicos, além de estar em constante evolução em temas como modelagem dimensional, ETL, pipelines de dados e boas práticas de DataOps, com o objetivo de fortalecer minha atuação em BI e Engenharia de Dados.
-
+### Sou Analytics Engineer com foco em Business Intelligence e análise de dados financeiros, atuando na construção de dashboards, definição e acompanhamento de KPIs e modelagem de dados para apoiar decisões estratégicas.
+ 
+Tenho experiência prática com Power BI, Excel Avançado e VBA, além de trabalhar com dados provenientes de sistemas ERP — contribuindo para a otimização de processos e o fortalecimento da governança da informação. Tenho familiaridade com automação de rotinas e boas práticas de organização e documentação de projetos.
+ 
+Atualmente, estou expandindo minha atuação para Engenharia de Dados, aprofundando conhecimentos em SQL, Python e integração via APIs e já aplicando essas novas habilidades no meu trabalho atual, conectando análise, automação e estruturação de dados de forma mais completa.
+ 
+Meu objetivo é consolidar uma carreira híbrida em dados, unindo Business Intelligence, programação e engenharia para gerar impacto real nas organizações através de soluções orientadas a dados.
 ---
 
 ## 🚀 Linguagens e Tecnologias
