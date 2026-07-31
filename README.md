@@ -1,15 +1,7 @@
 #mariaeduardadearaujoalves90-hue
 # 👨‍💻 Eduarda Araujo 
 
-###
-Sou Analytics Engineer com foco em Business Intelligence e análise de dados financeiros, atuando na construção de dashboards, definição e acompanhamento de KPIs e modelagem de dados para apoiar decisões estratégicas.
- 
-Tenho experiência prática com Power BI, Excel Avançado e VBA, além de trabalhar com dados provenientes de sistemas ERP — contribuindo para a otimização de processos e o fortalecimento da governança da informação. Tenho familiaridade com automação de rotinas e boas práticas de organização e documentação de projetos.
- 
-Atualmente, estou expandindo minha atuação para Engenharia de Dados, aprofundando conhecimentos em SQL, Python e integração via APIs e já aplicando essas novas habilidades no meu trabalho atual, conectando análise, automação e estruturação de dados de forma mais completa.
- 
-  Meu objetivo é consolidar uma carreira híbrida em dados, unindo Business Intelligence, programação e engenharia para gerar impacto real nas organizações através de soluções orientadas a dados.
- 
+###Sou Analytics Engineer com foco em Business Intelligence e análise de dados financeiros, atuando na construção de dashboards, definição e acompanhamento de KPIs e modelagem de dados para apoiar decisões estratégicas.Tenho experiência prática com Power BI, Excel Avançado e VBA, além de trabalhar com dados provenientes de sistemas ERP — contribuindo para a otimização de processos e o fortalecimento da governança da informação. Tenho familiaridade com automação de rotinas e boas práticas de organização e documentação de projetos.Atualmente, estou expandindo minha atuação para Engenharia de Dados, aprofundando conhecimentos em SQL, Python e integração via APIs e já aplicando essas novas habilidades no meu trabalho atual, conectando análise, automação e estruturação de dados de forma mais completa.  Meu objetivo é consolidar uma carreira híbrida em dados, unindo Business Intelligence, programação e engenharia para gerar impacto real nas organizações através de soluções orientadas a dados.
 ---
 
 ## 🚀 Linguagens e Tecnologias
